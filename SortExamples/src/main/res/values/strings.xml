@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Sorting Straws</string>
+    <string name="action_settings" >Settings</string>
+
+    <string name="back"><![CDATA[|<]]></string>
+    <string name="play"><![CDATA[|>]]></string>
+    <string name="fast_forward"><![CDATA[>|]]></string>
+    <string name="Pause">||</string>
+    <string name="bubble_sort">Bubble Sort</string>
+    <string name="insertion_sort">Insertion Sort</string>
+    <string name="selection_sort">Selection Sort</string>
+    <string name="shell_sort">Shell Sort</string>
+    <string name="comb_sort">Comb Sort</string>
+    <string name="merge_sort">Merge Sort</string>
+    <string name="heap_sort">Heap Sort</string>
+    <string name="quick_sort">Quick Sort</string>
+    <string name="counting_sort">Counting Sort</string>
+    <string name="bucket_sort">Bucket Sort</string>
+    <string name="radix_sort">Radix Sort</string>
+    <string name="distribution_sort">Distribution Sort</string>
+
+</resources>
